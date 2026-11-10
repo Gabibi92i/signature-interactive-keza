@@ -1,0 +1,26 @@
+<!-- Signature Keza : Kevin Youssef -->
+<table cellpadding="0" cellspacing="0" border="0" width="600" role="presentation" style="border-collapse:collapse;width:600px;font-family:-apple-system,BlinkMacSystemFont,'Helvetica Neue',Helvetica,Arial,sans-serif;">
+  <tr>
+    <td width="390" valign="middle" bgcolor="#ffffff" style="width:390px;padding:22px 16px 22px 24px;background:#ffffff;">
+      <div style="font-family:-apple-system,BlinkMacSystemFont,'Helvetica Neue',Helvetica,Arial,sans-serif;font-size:11px;line-height:14px;color:#6e6e73;padding:0 0 12px 0;">Une vision nouvelle pour votre identité</div>
+      <div style="font-family:-apple-system,BlinkMacSystemFont,'Helvetica Neue',Helvetica,Arial,sans-serif;font-size:22px;line-height:26px;letter-spacing:0.3px;color:#1d1d1f;white-space:nowrap;"><span style="font-weight:700;color:#1925F6;">KEVIN</span> YOUSSEF</div>
+      <div style="font-family:-apple-system,BlinkMacSystemFont,'Helvetica Neue',Helvetica,Arial,sans-serif;font-size:12px;line-height:17px;color:#1d1d1f;padding:3px 0 0 0;">Responsable design</div>
+      <div style="height:1px;line-height:1px;font-size:1px;background:#d9d9de;margin:14px 0 12px 0;">&nbsp;</div>
+      <table cellpadding="0" cellspacing="0" border="0" role="presentation" style="border-collapse:collapse;"><tr>
+            <td valign="middle" style="padding:0 5px 0 0;"><a href="tel:+41789170779" style="text-decoration:none;"><img src="https://raw.githubusercontent.com/Gabibi92i/signature-interactive-keza/main/img/ic-tel.png" width="20" height="20" alt="" style="display:block;border:0;width:20px;height:20px;"></a></td>
+            <td valign="middle" style="padding:0 10px 0 0;font-family:-apple-system,BlinkMacSystemFont,'Helvetica Neue',Helvetica,Arial,sans-serif;font-size:11px;line-height:14px;white-space:nowrap;"><a href="tel:+41789170779" style="color:#1d1d1f;text-decoration:none;">+41 78 917 07 79</a></td>
+            <td valign="middle" style="padding:0 5px 0 0;"><a href="mailto:contact@keza.ch" style="text-decoration:none;"><img src="https://raw.githubusercontent.com/Gabibi92i/signature-interactive-keza/main/img/ic-mail.png" width="20" height="20" alt="" style="display:block;border:0;width:20px;height:20px;"></a></td>
+            <td valign="middle" style="padding:0 10px 0 0;font-family:-apple-system,BlinkMacSystemFont,'Helvetica Neue',Helvetica,Arial,sans-serif;font-size:11px;line-height:14px;white-space:nowrap;"><a href="mailto:contact@keza.ch" style="color:#1d1d1f;text-decoration:none;">contact@keza.ch</a></td>
+            <td valign="middle" style="padding:0 5px 0 0;"><a href="https://maps.google.com/?q=Chemin%20des%20Roses%204%2C%201400%20Yverdon-les-Bains" style="text-decoration:none;"><img src="https://raw.githubusercontent.com/Gabibi92i/signature-interactive-keza/main/img/ic-lieu.png" width="20" height="20" alt="" style="display:block;border:0;width:20px;height:20px;"></a></td>
+            <td valign="middle" style="padding:0 0px 0 0;font-family:-apple-system,BlinkMacSystemFont,'Helvetica Neue',Helvetica,Arial,sans-serif;font-size:11px;line-height:14px;white-space:nowrap;"><a href="https://maps.google.com/?q=Chemin%20des%20Roses%204%2C%201400%20Yverdon-les-Bains" style="color:#1d1d1f;text-decoration:none;">Yverdon-les-Bains</a></td>
+      </tr></table>
+    </td>
+    <td width="150" valign="middle" align="center" bgcolor="#1925F6" style="width:150px;padding:22px 10px;background:#1925F6;">
+      <a href="https://keza.ch" style="text-decoration:none;"><img src="https://raw.githubusercontent.com/Gabibi92i/signature-interactive-keza/main/img/keza-agency-blanc.png" width="140" height="27" alt="Keza agency" style="display:block;border:0;width:140px;height:27px;margin:0 auto;"></a>
+      <table cellpadding="0" cellspacing="0" border="0" role="presentation" align="center" style="border-collapse:collapse;margin:16px auto 0 auto;"><tr>
+        <td style="padding:0 7px 0 0;"><a href="https://www.instagram.com/keza.agency/" style="text-decoration:none;"><img src="https://raw.githubusercontent.com/Gabibi92i/signature-interactive-keza/main/img/ic-instagram.png" width="26" height="26" alt="Instagram" title="Instagram" style="display:block;border:0;width:26px;height:26px;"></a></td><td style="padding:0 0px 0 0;"><a href="https://keza.ch" style="text-decoration:none;"><img src="https://raw.githubusercontent.com/Gabibi92i/signature-interactive-keza/main/img/ic-site.png" width="26" height="26" alt="Site Keza" title="Site Keza" style="display:block;border:0;width:26px;height:26px;"></a></td>
+        <!-- Facebook et LinkedIn : à ajouter quand les pages existeront -->
+      </tr></table>
+    </td>
+  </tr>
+</table>
